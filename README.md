@@ -1,1 +1,1 @@
-"# Atividades desenvolvidas nos curso de Java na plataforma Alura." 
+"# Atividades desenvolvidas nos cursos de Java na plataforma Alura." 
